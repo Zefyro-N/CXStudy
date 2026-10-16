@@ -1,0 +1,16 @@
+# 凭据、会话与本地环境：绝不入库
+.env
+.env.*
+*.key
+*apikey*
+*api_key*
+secrets*
+*.state.json
+state.json
+.pw-profile/
+*.log
+.logs/
+recon/
+__pycache__/
+*.pyc
+node_modules/
