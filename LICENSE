@@ -1,11 +1,7 @@
 MIT License
 
-Copyright (c) 2022 enncy — OCS 网课助手 (https://github.com/ocsjs/ocsjs)
-Copyright (c) 2026 CXStudy 超星助手 — 本衍生分支的作者
-
-本文件是本项目及其衍生作品所依据的许可证。上游 OCS 网课助手以 MIT 协议发布，
-本分支在其基础上修改而来，同样以 MIT 协议分发。依据 MIT 协议的要求，
-上述原始版权声明与下方许可声明均被完整保留，不得删除。
+Copyright (c) 2022 enncy
+Copyright (c) 2026 CXStudy 超星助手
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
